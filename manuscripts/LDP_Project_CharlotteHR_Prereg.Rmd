@@ -1,0 +1,45 @@
+---
+title: "LDP_Project_CharlotteHR_Prereg"
+author: "Charlotte Hagelstam Renshaw"
+date: '2022-09-16'
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(raster)
+library(sp)
+```
+
+**Title**: Preregistration 
+
+Charlotte Hagelstam Renshaw^1^
+
+1.  University of Montreal
+
+
+\newpage
+
+## Abstract
+
+We will use species occurrence data downloaded from herbaria databases as well as global biome maps to study the distribution of the pantropical legume subfamily Cercidoideae (Fabaceae). 
+
+## Introduction
+
+Citation: 
+
+## Methods
+
+Dataset were downloaded by genus from https://www.gbif.org/ and then cleaned in R using the dplyr, raster, sp, ggplot2 and tidyverse packages.
+
+## Results
+
+## Discussion
+
+## Conclusion
+
+## References
