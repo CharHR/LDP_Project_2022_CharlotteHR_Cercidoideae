@@ -1,4 +1,6 @@
-# Cercidoideae-Biomes
+# LDP Project 2022 CharlotteHR Cercidoideae
+# Charlotte Hagelstam Renshaw
+# September 16 2022
 
 This is part of the Scientific Data Management in Ecology and Evolution course (CIEE Living Data project). R project and Rmarkdown code for assignment, publishing the final results on OSF.
 
